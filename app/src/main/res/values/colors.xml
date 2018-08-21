@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26A65B</color><!--#3F51B5-->
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#003171</color>
+    <color name="gossip">#87D37C</color>
+    <color name="silversand">#BDC3C7</color>
+    <color name="steelblue">#4B77BE</color>
+    <color name="eucalyptus">#26A65B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="creamcan">#F5D76E</color>
+    <color name="navyblue">#003171</color>
+    <color name="jordyblue">#89C4F4</color>
+    <color name="indigo">#264348</color>
+</resources>

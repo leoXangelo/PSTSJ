@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pageant Scoring and Tabulation System</string>
+    <string name="tab_text_1">Male Candidates</string>
+    <string name="tab_text_2">Female Candidates</string>
+    <string name="tab_text_3">Graphical Report</string>
+    <string name="action_settings">Logout</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="height">5\"1</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
